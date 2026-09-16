@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Microsoft.UI.Composition.OSSupport.dll",
+  "latest": "3646022487-7DAE910C92E7B693BE6715ACFED01342-1",
+  "builds": [
+    {
+      "key": "3646022487-7DAE910C92E7B693BE6715ACFED01342-1",
+      "timestamp": "3646022487",
+      "pdb_guid": "7DAE910C92E7B693BE6715ACFED01342",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3646022487-7DAE910C92E7B693BE6715ACFED01342-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
